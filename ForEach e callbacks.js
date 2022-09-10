@@ -1,3 +1,28 @@
+//index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <!--<h1>Utilizando callbacks</h1>
+  <ul data-js="ul"></ul>-->
+  
+  <article>
+    <header>
+      <h1>Sobre "Jurassic Park"</h1>
+    </header>
+
+    <section data-js="section"></section>
+  </article>
+</body>
+</html>
+
+
+
 /*const socialNetworks = ["Instagram","Twitter","Facebook","Youtube"]
 const logArrayInfo = (socialNetwork,index,array)=>{
   console.log(index,socialNetwork,array)
